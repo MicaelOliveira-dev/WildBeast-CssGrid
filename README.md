@@ -5,7 +5,7 @@
 ## Objetivo :dart:
 
 <p align="justify">
-    Projeto WildBeast  </br>
+   Aprender CSS GRID  
 </p>
 
 ## Observações 🔭
