@@ -10,13 +10,6 @@
 
 ## Observações 🔭
 <p>Projeto Realizado para aprimorar conceitos de HTML5 e CSS3 (GRID)</p>
-
-## Como rodar a aplicação :arrow_forward:
-No terminal, clone o projeto e abra o arquivo index.html: 
-
-```
-git clone https://github.com/MicaelOliveira-dev/Clone-Netflix.git
-```
  
 ## Linguagens 🚀 
 ### Código:
